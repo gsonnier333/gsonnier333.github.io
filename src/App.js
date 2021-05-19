@@ -1,10 +1,11 @@
 import "./App.css";
 import Container from "react-bootstrap/Container";
 import profilePic from "./images/profile-pic.jpg";
+import resumeLink from "./assets/Resume.pdf";
 
 function App() {
 	return (
-		<Container>
+		<Container className="customCont">
 			<h1>
 				<u>
 					About
@@ -15,16 +16,16 @@ function App() {
 				<img alt="Greg smiling" src={profilePic} />
 				<span id="profileDesc">
 					I'm a full stack web developer from Aurora, Colorado. I have
-					experience with JavaScript, CSS, HTML, Java 8, and Python 3.
+					experience with JavaScript, CSS, HTML, Java 8, and Python.
 					I've also worked as both a vocal coach teaching singing
 					lessons as well as a coding coach, teaching programming
 					fundamentals to kids K-12.
 					<br />
 					<br />
 					<br />
-					{/* <a href="./assets/Resume.pdf" className="menuLink">
+					<a href={resumeLink} className="customLink">
 						My resume
-					</a> */}
+					</a>
 				</span>
 			</div>
 		</Container>
