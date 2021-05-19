@@ -17,14 +17,14 @@ function App() {
 				<span id="profileDesc">
 					I'm a full stack web developer from Aurora, Colorado. I have
 					experience with JavaScript, CSS, HTML, Java 8, and Python.
-					I've also worked as both a vocal coach teaching singing
-					lessons as well as a coding coach, teaching programming
+					I've also worked as both a vocal coach, teaching singing
+					lessons, as well as a coding coach, teaching programming
 					fundamentals to kids K-12.
 					<br />
 					<br />
 					<br />
 					<a href={resumeLink} className="customLink">
-						My resume
+						My Resume
 					</a>
 				</span>
 			</div>
