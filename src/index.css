@@ -58,6 +58,10 @@ div.customCont {
 	background-color: rgb(180, 180, 180);
 }
 
+.customNavbar {
+	background-color: rgb(248, 249, 250);
+}
+
 .navbarToggleBtn::after {
 	content: none;
 }
@@ -74,6 +78,19 @@ div.customCont {
 	background-color: rgb(180, 180, 180);
 }
 
-.dropdownWindow {
-	width: 200px;
+.dropItem {
+	color: rgb(60, 60, 60);
+}
+
+.dropItem:focus {
+	background-color: rgb(248, 249, 250);
+}
+
+.dropItem:hover {
+	background-color: rgb(200, 200, 200);
+}
+
+.dropItem:active {
+	background-color: rgb(180, 180, 180);
+	color: rgb(40, 40, 40);
 }
