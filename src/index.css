@@ -97,3 +97,11 @@ h5 {
 	background-color: rgb(180, 180, 180);
 	color: black;
 }
+
+a,
+a:hover,
+a:focus,
+a:active {
+	color: inherit;
+	text-decoration: inherit;
+}
