@@ -50,10 +50,22 @@ div.customCont {
 }
 
 .customLink:hover {
-	color: rgb(60, 60, 60);
-	box-shadow: -1px -1px 5px rgb(140, 140, 140) inset,
-		1px 1px 5px rgb(140, 140, 140) inset,
-		-1px 1px 5px rgb(140, 140, 140) inset,
-		1px -1px 5px rgb(140, 140, 140) inset;
+	color: rgb(40, 40, 40);
 	background-color: rgb(200, 200, 200);
+}
+
+.customLink:active {
+	background-color: rgb(180, 180, 180);
+}
+
+.navbarToggleBtn {
+	background-color: rgb(230, 230, 230);
+}
+
+.navbarToggleBtn:hover {
+	background-color: rgb(200, 200, 200);
+}
+
+.navbarToggleBtn:active {
+	background-color: rgb(180, 180, 180);
 }

@@ -5,8 +5,8 @@ export default class Header extends Component {
 	render() {
 		return (
 			<Navbar bg="light" expand="false">
-				<Navbar.Toggle aria-controls="responsive-navbar-nav" />
-				<Navbar.Collapse id="responsive-navbar-nav">
+				<Navbar.Toggle className="navbarToggleBtn" />
+				<Navbar.Collapse>
 					<Nav>
 						<Nav.Link href="#">Test</Nav.Link>
 					</Nav>
