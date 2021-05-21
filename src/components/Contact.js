@@ -13,14 +13,22 @@ export default function Contact() {
 			<br />
 			<h4>
 				GitHub:{" "}
-				<a href="https://github.com/gsonnier333">
+				<a
+					href="https://github.com/gsonnier333"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
 					https://github.com/gsonnier333
 				</a>
 			</h4>
 			<br />
 			<h4>
 				LinkedIn:{" "}
-				<a href="https://www.linkedin.com/in/greg-sonnier/">
+				<a
+					href="https://www.linkedin.com/in/greg-sonnier/"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
 					https://www.linkedin.com/in/greg-sonnier/
 				</a>
 			</h4>

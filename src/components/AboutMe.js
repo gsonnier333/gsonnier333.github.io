@@ -13,6 +13,8 @@ export default function AboutMe() {
 					Me&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				</u>
 			</h1>
+
+			{/* MOBILE VIEW (will display with image centered horizontally and text beneath)*/}
 			<div id="mobileView">
 				<img alt="Greg smiling" src={profilePic} />
 
@@ -33,6 +35,8 @@ export default function AboutMe() {
 					</p>
 				</div>
 			</div>
+
+			{/* DESKTOP VIEW (will display with image to the left of text)*/}
 			<div id="desktopView">
 				<img alt="Greg smiling" src={profilePic} />
 

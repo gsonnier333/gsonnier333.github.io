@@ -41,6 +41,7 @@ div.customCont {
 	font-size: 20px;
 }
 
+/* DESKTOP VIEW */
 @media (min-width: 769px) {
 	#mobileView {
 		display: none;
@@ -49,6 +50,8 @@ div.customCont {
 		display: inline;
 	}
 }
+
+/* MOBILE VIEW */
 @media (max-width: 768px) {
 	img {
 		float: none;
