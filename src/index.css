@@ -58,6 +58,10 @@ div.customCont {
 	background-color: rgb(180, 180, 180);
 }
 
+.navbarToggleBtn::after {
+	content: none;
+}
+
 .navbarToggleBtn {
 	background-color: rgb(230, 230, 230);
 }
@@ -68,4 +72,8 @@ div.customCont {
 
 .navbarToggleBtn:active {
 	background-color: rgb(180, 180, 180);
+}
+
+.dropdownWindow {
+	width: 200px;
 }
