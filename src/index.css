@@ -41,6 +41,30 @@ div.customCont {
 	font-size: 20px;
 }
 
+@media (min-width: 769px) {
+	#mobileView {
+		display: none;
+	}
+	#desktopView {
+		display: inline;
+	}
+}
+@media (max-width: 768px) {
+	img {
+		float: none;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 30px;
+	}
+	#mobileView {
+		display: inline;
+	}
+	#desktopView {
+		display: none;
+	}
+}
+
 .customLink {
 	color: rgb(60, 60, 60);
 	background-color: rgb(230, 230, 230);
