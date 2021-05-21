@@ -66,8 +66,15 @@ div.customCont {
 	content: none;
 }
 
+h5 {
+	float: right;
+	text-align: center;
+	margin-top: 6px;
+}
+
 .navbarToggleBtn {
 	background-color: rgb(230, 230, 230);
+	margin-right: 10px;
 }
 
 .navbarToggleBtn:hover {
@@ -76,10 +83,6 @@ div.customCont {
 
 .navbarToggleBtn:active {
 	background-color: rgb(180, 180, 180);
-}
-
-.dropItem {
-	color: rgb(60, 60, 60);
 }
 
 .dropItem:focus {
@@ -92,5 +95,5 @@ div.customCont {
 
 .dropItem:active {
 	background-color: rgb(180, 180, 180);
-	color: rgb(40, 40, 40);
+	color: black;
 }
