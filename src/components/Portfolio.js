@@ -21,6 +21,8 @@ export default function Portfolio() {
 			<Project name="Galaxy Getaway" />
 
 			<Project name="Day Planner" />
+
+			<Project name="Employee Directory" />
 		</Container>
 	);
 }

@@ -20,9 +20,8 @@ export default function DayPlanner() {
 					<h3>Day Planner</h3>
 					<br />
 					<p>
-						For this assignment, I was tasked with creating a
-						functioning day-planner that can be used in a web
-						browser. The planner will list out anything you've
+						This is a functioning day-planner that can be used in a
+						web browser. The planner will list out anything you've
 						written and saved to it for each hour from 9AM to 5PM,
 						and you can change and add items by typing in new text
 						in their respective rows and clicking the Save button

@@ -20,9 +20,8 @@ export default function GalaxyGetaway() {
 					<h3>Galaxy Getaway</h3>
 					<br />
 					<p>
-						This was a group project on which I worked with three of
-						my peers to create a website for learning about and
-						viewing different locations in outer space. The user can
+						This is a website for learning about and viewing
+						different locations in outer space. The user can
 						register for an account, the information for which is
 						encrypted and stored securely in a back end database,
 						and can select where they'd like to "visit" from a
