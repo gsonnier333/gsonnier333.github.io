@@ -3,7 +3,7 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import dayPlannerScreen from "../../images/day-planner-screen.PNG";
 
-export default function PasswordGen() {
+export default function DayPlanner() {
 	return (
 		<>
 			<Row>

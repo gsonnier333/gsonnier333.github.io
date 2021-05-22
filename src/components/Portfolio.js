@@ -16,9 +16,11 @@ export default function Portfolio() {
 
 			<Project name="Password Generator" />
 
-			<Project name="Day Planner" />
+			<Project name="Weather Dashboard" />
 
 			<Project name="Galaxy Getaway" />
+
+			<Project name="Day Planner" />
 		</Container>
 	);
 }
