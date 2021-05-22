@@ -41,6 +41,17 @@ div.customCont {
 	font-size: 20px;
 }
 
+#footerBar {
+	margin-top: auto;
+	width: 100%;
+}
+
+#wrapper {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+}
+
 /* DESKTOP VIEW */
 @media (min-width: 769px) {
 	#mobileView {
