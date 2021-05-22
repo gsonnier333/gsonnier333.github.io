@@ -11,12 +11,14 @@ export default function Portfolio() {
 					Portfolio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 				</u>
 			</h1>
-			{/* <!-- Project 1 --> */}
+
 			<Project name="Meal Planner" />
-			{/* <!-- Project 2 --> */}
+
 			<Project name="Password Generator" />
-			{/* <!-- Project 3 --> */}
+
 			<Project name="Day Planner" />
+
+			<Project name="Galaxy Getaway" />
 		</Container>
 	);
 }

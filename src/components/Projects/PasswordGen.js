@@ -16,7 +16,6 @@ export default function PasswordGen() {
 						<img
 							src={passwordGenScreen}
 							alt="Password Generator page"
-							href="https://gsonnier333.github.io/password-generator"
 						/>
 					</a>
 				</Col>
