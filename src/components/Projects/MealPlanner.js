@@ -39,7 +39,7 @@ export default function MealPlanner() {
 							target="_blank"
 							rel="noopener noreferrer"
 						>
-							https://github.com/CodingCobrasCoding/CobrasCalorieCounter
+							Cobras Calorie Counter (on GitHub)
 						</a>
 					</p>
 					<p>
@@ -50,7 +50,7 @@ export default function MealPlanner() {
 							target="_blank"
 							rel="noopener noreferrer"
 						>
-							https://codingcobrascoding.github.io/CobrasCalorieCounter
+							Cobras Calorie Counter (live site)
 						</a>
 					</p>
 				</Col>
