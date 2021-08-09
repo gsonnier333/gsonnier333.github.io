@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3182744.chunk.css",
+    "main.js": "/static/js/main.9670e7be.chunk.js",
+    "main.js.map": "/static/js/main.9670e7be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6922cb76.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6922cb76.js.map",
+    "static/js/2.7cba8701.chunk.js": "/static/js/2.7cba8701.chunk.js",
+    "static/js/2.7cba8701.chunk.js.map": "/static/js/2.7cba8701.chunk.js.map",
+    "static/js/3.da30a0ab.chunk.js": "/static/js/3.da30a0ab.chunk.js",
+    "static/js/3.da30a0ab.chunk.js.map": "/static/js/3.da30a0ab.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a3182744.chunk.css.map": "/static/css/main.a3182744.chunk.css.map",
+    "static/js/2.7cba8701.chunk.js.LICENSE.txt": "/static/js/2.7cba8701.chunk.js.LICENSE.txt",
+    "static/media/Resume.5a042109.pdf": "/static/media/Resume.5a042109.pdf",
+    "static/media/day-planner-screen.455d5bcc.PNG": "/static/media/day-planner-screen.455d5bcc.PNG",
+    "static/media/employee-directory-screenshot.acf2c5b0.PNG": "/static/media/employee-directory-screenshot.acf2c5b0.PNG",
+    "static/media/galaxy-getaway.27efdf72.PNG": "/static/media/galaxy-getaway.27efdf72.PNG",
+    "static/media/password-gen-screen.a72f0b46.PNG": "/static/media/password-gen-screen.a72f0b46.PNG",
+    "static/media/profile-pic.df52753b.jpg": "/static/media/profile-pic.df52753b.jpg",
+    "static/media/project1-screen.a9eb9ec1.png": "/static/media/project1-screen.a9eb9ec1.png",
+    "static/media/weather-dashboard.695bd1a4.PNG": "/static/media/weather-dashboard.695bd1a4.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6922cb76.js",
+    "static/js/2.7cba8701.chunk.js",
+    "static/css/main.a3182744.chunk.css",
+    "static/js/main.9670e7be.chunk.js"
+  ]
+}
